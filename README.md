@@ -99,15 +99,15 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
 </p>
 
-### Data Analytics
-
-**Python • Pandas • NumPy • SQL • Excel • Power BI • DAX • Tableau • Snowflake • Statistics • EDA**
 
 ### Cloud & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,aws,docker,vscode,postman" />
 </p>
+### Data Analytics
+
+**Python • Pandas • NumPy • SQL • Excel • Power BI • DAX • Tableau • Snowflake • Statistics • EDA**
 
 ---
 
