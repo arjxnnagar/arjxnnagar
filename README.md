@@ -101,10 +101,6 @@
 
 ### Data Analytics
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
 **Python • Pandas • NumPy • SQL • Excel • Power BI • DAX • Tableau • Snowflake • Statistics • EDA**
 
 ### Cloud & Tools
