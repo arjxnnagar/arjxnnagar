@@ -51,7 +51,7 @@
 
 * 🥇 **14th Place** – Visionary Hackathon 2.0 (Mettl Xathon)
 * 💻 **500+ DSA Problems Solved**
-* 🏢 Completed internships at **NPTI Faridabad and SukritInfotech**
+* 🏢 Completed internships at **NPTI Faridabad**
 * 📊 Completed a comprehensive **Data Analytics course**
 * 🎯 **97.34 Percentile** in JEE Mains 2023
 
