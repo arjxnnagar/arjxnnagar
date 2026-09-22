@@ -107,7 +107,6 @@
 - Portfolio: https://portfolio-zeta-blush-16.vercel.app/
 - GitHub: https://github.com/arjxnnagar
 - LeetCode: https://leetcode.com/u/Arjxnnagar/
-- Codeforces: https://codeforces.com/profile/arjxnnagar
 - Email: arjunnagar012@gmail.com
 
 ---
